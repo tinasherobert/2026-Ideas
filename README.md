@@ -1,6 +1,6 @@
 # 2026 Ideas Board
 
-A curated list of potential projects and ideas for 2026. Each idea is documented in the [`docs/`](docs/) folder with overviews and, where applicable, worked examples and scenarios.
+A curated list of potential projects and ideas for 2026. Goals: document product and service ideas (e.g. ROSCA, lay-by, AI support bots), work through scenarios and recommendations, and keep a single place for 2026 planning and exploration. Each idea is documented in the [`docs/`](docs/) folder with overviews and, where applicable, worked examples and scenarios.
 
 ---
 
