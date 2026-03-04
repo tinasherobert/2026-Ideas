@@ -1,2 +1,36 @@
-/.idea/*
-/2026 Ideas Board.iml
+# IDE / Editor
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Build / dependencies (if added later)
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.eggs/
